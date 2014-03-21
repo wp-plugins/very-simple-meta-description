@@ -57,11 +57,22 @@ msgstr ""
 
 #: vsmd.php:39
 #@ metadescription
-msgid " This is a very simple plugin to add meta description of max. 150 characters in the header of your WordPress blog. If no meta description is entered, the blog description will be used."
+msgid "This is a very simple plugin to add meta description of max. 150 characters in the header of your WordPress blog."
 msgstr ""
 
 #: vsmd.php:67
 #@ metadescription
 msgid "Save Meta"
 msgstr ""
+
+#: vsmd.php:69
+#@ metadescription
+msgid "Search engines like Google use the meta description in search results."
+msgstr ""
+
+#: vsmd.php:70
+#@ metadescription
+msgid "Note: if no meta description is entered, the blog description will be used."
+msgstr ""
+
 
