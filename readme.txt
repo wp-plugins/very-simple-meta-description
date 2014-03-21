@@ -19,7 +19,7 @@ This is a very simple plugin to add meta description in the header of your WordP
 
 
 == INSTALLATION == 
-After installation go to Settings > Meta Description and enter your own meta description. Search engines like Google use this description in search results.
+After installation go to Settings > Meta Description and enter your own meta description. Search engines like Google use the meta description in search results.
 
 
 == Screenshots == 

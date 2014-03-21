@@ -36,7 +36,7 @@ add_action( 'admin_init', 'vsmd_admin_init' );
 
 
 function vsmd_section_callback() {
-    echo __( ' This is a very simple plugin to add meta description of max. 150 characters in the header of your WordPress blog. If no meta description is entered, the blog description will be used.', 'metadescription' ); 
+    echo __( 'This is a very simple plugin to add meta description of max. 150 characters in the header of your WordPress blog.', 'metadescription' ); 
 }
 
 
@@ -66,6 +66,8 @@ function vsmd_options_page() {
 	<?php do_settings_sections( 'vsmd' ); ?>
 	<?php submit_button(__('Save Meta', 'metadescription')); ?>
 	</form>
+	<p><?php _e( 'Search engines like Google use the meta description in search results.', 'metadescription' ); ?></h2><p>
+	<p><?php _e( 'Note: if no meta description is entered, the blog description will be used.', 'metadescription' ); ?></h2><p>
 </div>
 <?php
 }
