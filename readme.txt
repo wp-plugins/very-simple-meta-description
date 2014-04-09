@@ -34,7 +34,7 @@ You can translate this into your own language using for example plugin Codestyli
 
 
 == CREDITS ==
-Without the WordPress codex and help from the WordPress community I was not able to develop my theme, so: thank you!
+Without the WordPress codex and help from the WordPress community I was not able to develop this plugin, so: thank you!
 
 I used this tutorial for developing the Very Simple Meta Description plugin:
 http://kovshenin.com/2012/the-wordpress-settings-api
