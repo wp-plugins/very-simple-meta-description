@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: metadescription\n"
+"Project-Id-Version: Very Simple Meta Description v1.0\n"
 "POT-Creation-Date: 2014-03-06 19:24+0100\n"
 "PO-Revision-Date: 2014-03-06 19:26+0100\n"
 "Last-Translator: \n"
