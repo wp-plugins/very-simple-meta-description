@@ -1,15 +1,18 @@
 === Very Simple Meta Description ===
 Contributors: Guido07111975
-Version: 1.0
+Version: 1.1
 License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Requires at Least: 3.7
-Tested up to: 3.9
+Tested up to: 3.9.1
 Stable tag: trunk
 Tags: simple, meta, description
 
 
 == Changelog == 
+Version 1.1
+- adjusted function vscf_clean_input. Only allowed: letters (a-z), digits (0-10), space, point, hyphen and comma
+
 Version 1.0
 - first stable release
 
@@ -29,7 +32,7 @@ After installation go to Settings > Meta Description and enter your own meta des
 == OTHER NOTES ==
 Do not use this plugin in combination with theme/plugin that also contains own meta description function. This may cause conflict.
 
-This plugin is translation-ready (Dutch translation included).
+This plugin is translation-ready (Dutch translation included). More translations are very welcome! Please send them to: info@guidovanderleest.nl
 You can translate this into your own language using for example plugin Codestyling Localization: http://wordpress.org/plugins/codestyling-localization/
 
 
