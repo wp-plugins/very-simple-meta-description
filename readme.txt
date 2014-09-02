@@ -11,9 +11,9 @@ Tags: simple, meta, description
 
 == Changelog == 
 Version 1.2
-- added Serbian translation (thanks Ogi Djuraskovic from http://firstsiteguide.com)
-- added Brazilian Portuguese translation (thanks Gustavo Lucas)
-- added Spanish translation (thanks Alvaro Reig Gonzalez)
+- added Serbian translation ( thanks Ogi Djuraskovic from http://firstsiteguide.com )
+- added Brazilian Portuguese translation ( thanks Gustavo Lucas )
+- added Spanish translation ( thanks Alvaro Reig Gonzalez )
 
 Version 1.1
 - adjusted function vscf_clean_input. Only allowed: letters (a-z), digits (0-10), space, point, hyphen and comma
