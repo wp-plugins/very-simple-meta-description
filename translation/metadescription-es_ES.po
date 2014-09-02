@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Very Simple Meta Description v1.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-06-14 15:56:38+0000\n"
+"PO-Revision-Date: 2014-09-02 16:35:22+0000\n"
 "Last-Translator: Guido van der Leest\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: CSL v1.x\n"
-"X-Poedit-Language: Dutch\n"
-"X-Poedit-Country: NETHERLANDS\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
 "X-Poedit-SourceCharset: utf-8\n"
 "X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
 "X-Poedit-Basepath: ../\n"
@@ -31,7 +31,7 @@ msgstr ""
 #: vsmd.php:0
 #@ metadescription
 msgid "This is a very simple plugin to add meta description in the header of your WordPress blog. For more info please check readme file."
-msgstr "Dit is een zeer eenvoudige plugin om meta beschrijving toe te voegen in de header van je WordPress blog. Voor meer info zie readme bestand."
+msgstr "Este es un sencillo plugin para añadir una meta descripción en la cabecera de su blog en Wordpress. Para más información consulte el fichero readme."
 
 #. translators: plugin header field 'Author'
 #: vsmd.php:0
@@ -48,37 +48,37 @@ msgstr ""
 #: vsmd.php:24
 #@ metadescription
 msgid "Meta Description"
-msgstr "Meta Beschrijving"
+msgstr "Meta descripción"
 
 #: vsmd.php:32
 #@ metadescription
 msgid "Description"
-msgstr "Beschrijving"
+msgstr "Descripción"
 
 #: vsmd.php:33
 #@ metadescription
 msgid "Your meta description"
-msgstr "Je meta beschrijving"
+msgstr "Su meta descripción"
 
 #: vsmd.php:67
 #@ metadescription
 msgid "Save Meta"
-msgstr "Meta Opslaan"
+msgstr "Guardar meta"
 
 #: vsmd.php:39
 #@ metadescription
 msgid "This is a very simple plugin to add meta description of max. 150 characters in the header of your WordPress blog."
-msgstr "Dit is een zeer eenvoudige plugin om meta beschrijving van max. 150 tekens toe te voegen in de header van je WordPress blog."
+msgstr "Este es un sencillo plugin para añadir una meta descripción de hasta 150 caracteres en la cabecera de su blog en Wordpress."
 
 #: vsmd.php:70
 #@ metadescription
 msgid "Note: if no meta description is entered, the blog description will be used."
-msgstr "Attentie: als er geen meta beschrijving is ingevoerd, zal de blog beschrijving gebruikt worden."
+msgstr "Nota: si no se introduce una meta descripción, se utilizará la descripción del blog."
 
 #: vsmd.php:69
 #@ metadescription
 msgid "Search engines like Google use the meta description in search results."
-msgstr "Zoekmachines zoals Google gebruiken de meta beschrijving in zoekresultaten."
+msgstr "Los motores de búsqueda como Google utilizan la meta descripción en los resultados de la búsqueda."
 
 #. translators: plugin header field 'Version'
 #: vsmd.php:0
