@@ -11,6 +11,7 @@ Tags: simple, meta, description
 
 == Changelog == 
 Version 1.2
+- added Catalan translation (thanks Miquel Serrat)
 - added Serbian translation ( thanks Ogi Djuraskovic from http://firstsiteguide.com )
 - added Brazilian Portuguese translation ( thanks Gustavo Lucas )
 - added Spanish translation ( thanks Alvaro Reig Gonzalez )
@@ -37,7 +38,7 @@ After installation go to Settings > Meta Description and enter your own meta des
 == OTHER NOTES ==
 Do not use this plugin in combination with theme/plugin that also contains own meta description function. This may cause a conflict.
 
-This plugin is translation-ready (Dutch, Spanish, Brazilian Portuguese and Serbian translation included). More translations are very welcome! Please send them to: info@guidovanderleest.nl
+This plugin is translation-ready (Dutch, Spanish, Catalan, Brazilian Portuguese and Serbian translation included). More translations are very welcome! Please send them to: info@guidovanderleest.nl
 You can translate this into your own language using for example plugin Codestyling Localization: http://wordpress.org/plugins/codestyling-localization/
 
 
