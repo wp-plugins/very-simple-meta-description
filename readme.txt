@@ -1,6 +1,6 @@
 === Very Simple Meta Description ===
 Contributors: Guido07111975
-Version: 1.3
+Version: 1.4
 License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Requires at Least: 3.7
@@ -10,6 +10,9 @@ Tags: simple, meta, description
 
 
 == Changelog == 
+Version 1.4
+- only few minor adjustments
+
 Version 1.3
 - major update
 - removed function vscf_clean_input and replaced it with default WP function sanitize_text_field: now all UTF-8 characters are supported!
@@ -29,11 +32,19 @@ Version 1.0
 
 
 == DESCRIPTION ==
-This is a very simple plugin to add meta description in the header of your WordPress blog. If no meta description is entered, the blog description will be used. For more info please check readme file.
+This is a very simple plugin to add meta description in the header of your WordPress blog.
+
+Search engines like Google use the meta description in search results.
+
+If no meta description is entered, the blog description will be used. 
+
+For more info please check readme file.
 
 
 == INSTALLATION == 
-After installation go to Settings > Meta Description and enter your own meta description. Search engines like Google use the meta description in search results.
+After installation go to Settings > Meta Description and enter your own meta description. 
+
+Search engines like Google use the meta description in search results.
 
 
 == Frequently Asked Questions ==
@@ -51,15 +62,22 @@ Please open a topic in plugin forum or send me a message via my website.
 == OTHER NOTES ==
 Do not use this plugin in combination with theme/plugin that also contains own meta description function. This may cause a conflict.
 
-This plugin is translation-ready (Dutch, Spanish, Catalan, Brazilian Portuguese and Serbian translation included). More translations are very welcome! Please send them to: info@guidovanderleest.nl
-You can translate this into your own language using for example plugin Codestyling Localization: http://wordpress.org/plugins/codestyling-localization/
+This plugin is translation-ready (Dutch, Spanish, Catalan, Brazilian Portuguese and Serbian translation included). 
+
+More translations are very welcome! Please contact me via my website.
+
+You can translate this into your own language using for example plugin Codestyling Localization: 
+
+http://wordpress.org/plugins/codestyling-localization/
 
 
 == CREDITS ==
 Without the WordPress codex and help from the WordPress community I was not able to develop this plugin, so: thank you!
 
 I used this tutorial for developing the Very Simple Meta Description plugin:
+
 http://kovshenin.com/2012/the-wordpress-settings-api
+
 This script is released under the GNU General Public License v3 or later
 
 
