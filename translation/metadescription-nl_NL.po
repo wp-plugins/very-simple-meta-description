@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Very Simple Meta Description v1.2\n"
+"Project-Id-Version: Very Simple Meta Description v1.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-06-14 15:56:38+0000\n"
+"PO-Revision-Date: 2014-11-08 17:55:08+0000\n"
 "Last-Translator: Guido van der Leest\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -22,7 +22,7 @@ msgstr ""
 
 #. translators: plugin header field 'Name'
 #: vsmd.php:0
-#: vsmd.php:63
+#: vsmd.php:54
 #@ metadescription
 msgid "Very Simple Meta Description"
 msgstr ""
@@ -60,7 +60,7 @@ msgstr "Beschrijving"
 msgid "Your meta description"
 msgstr "Je meta beschrijving"
 
-#: vsmd.php:67
+#: vsmd.php:58
 #@ metadescription
 msgid "Save Meta"
 msgstr "Meta Opslaan"
@@ -70,12 +70,12 @@ msgstr "Meta Opslaan"
 msgid "This is a very simple plugin to add meta description of max. 150 characters in the header of your WordPress blog."
 msgstr "Dit is een zeer eenvoudige plugin om meta beschrijving van max. 150 tekens toe te voegen in de header van je WordPress blog."
 
-#: vsmd.php:70
+#: vsmd.php:61
 #@ metadescription
 msgid "Note: if no meta description is entered, the blog description will be used."
 msgstr "Attentie: als er geen meta beschrijving is ingevoerd, zal de blog beschrijving gebruikt worden."
 
-#: vsmd.php:69
+#: vsmd.php:60
 #@ metadescription
 msgid "Search engines like Google use the meta description in search results."
 msgstr "Zoekmachines zoals Google gebruiken de meta beschrijving in zoekresultaten."
@@ -83,6 +83,6 @@ msgstr "Zoekmachines zoals Google gebruiken de meta beschrijving in zoekresultat
 #. translators: plugin header field 'Version'
 #: vsmd.php:0
 #@ metadescription
-msgid "1.1"
+msgid "1.4"
 msgstr ""
 

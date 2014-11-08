@@ -1,10 +1,10 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Very Simple Meta Description v1.2\n"
+"Project-Id-Version: Very Simple Meta Description v1.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-08-22 19:03:44+0000\n"
-"Last-Translator: Borisa Djuraskovic <borisad@webhostinghub.com>\n"
+"PO-Revision-Date: 2014-11-08 17:55:15+0000\n"
+"Last-Translator: Borisa Djuraskovic\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,7 +22,7 @@ msgstr ""
 
 #. translators: plugin header field 'Name'
 #: vsmd.php:0
-#: vsmd.php:63
+#: vsmd.php:54
 #@ metadescription
 msgid "Very Simple Meta Description"
 msgstr ""
@@ -65,17 +65,17 @@ msgstr "Vaš meta opis"
 msgid "This is a very simple plugin to add meta description of max. 150 characters in the header of your WordPress blog."
 msgstr "Ovo je veoma jednostavan plugin koji vam omogućava da dodate opis (maksimalne dužine od 150 karaktera) zaglavlju svog WordPress bloga."
 
-#: vsmd.php:67
+#: vsmd.php:58
 #@ metadescription
 msgid "Save Meta"
 msgstr "Sačuvaj Meta"
 
-#: vsmd.php:69
+#: vsmd.php:60
 #@ metadescription
 msgid "Search engines like Google use the meta description in search results."
 msgstr "Pretraživači, kao što je Google, koriste meta opise u rezultatima pretrage."
 
-#: vsmd.php:70
+#: vsmd.php:61
 #@ metadescription
 msgid "Note: if no meta description is entered, the blog description will be used."
 msgstr "Napomena: ako nije unet meta opis, umesto njega koristiće se opis bloga."
@@ -83,6 +83,6 @@ msgstr "Napomena: ako nije unet meta opis, umesto njega koristiće se opis bloga
 #. translators: plugin header field 'Version'
 #: vsmd.php:0
 #@ metadescription
-msgid "1.1"
+msgid "1.4"
 msgstr ""
 

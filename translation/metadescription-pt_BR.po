@@ -1,10 +1,10 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Very Simple Meta Description v1.2\n"
+"Project-Id-Version: Very Simple Meta Description v1.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-08-22 18:59:32+0000\n"
-"Last-Translator: Guido van der Leest\n"
+"PO-Revision-Date: 2014-11-08 17:55:11+0000\n"
+"Last-Translator: Gustavo Lucas\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,7 +22,7 @@ msgstr ""
 
 #. translators: plugin header field 'Name'
 #: vsmd.php:0
-#: vsmd.php:63
+#: vsmd.php:54
 #@ metadescription
 msgid "Very Simple Meta Description"
 msgstr ""
@@ -60,7 +60,7 @@ msgstr "Descrição"
 msgid "Your meta description"
 msgstr "Sua meta descrição"
 
-#: vsmd.php:67
+#: vsmd.php:58
 #@ metadescription
 msgid "Save Meta"
 msgstr "Salvar"
@@ -70,12 +70,12 @@ msgstr "Salvar"
 msgid "This is a very simple plugin to add meta description of max. 150 characters in the header of your WordPress blog."
 msgstr "Este é um plugin muito simples para adicionar meta descrição usando no máximo 150 caracteres no cabeçalho do seu blog/site Wordpress."
 
-#: vsmd.php:70
+#: vsmd.php:61
 #@ metadescription
 msgid "Note: if no meta description is entered, the blog description will be used."
 msgstr "Nota: se nenhuma meta descrição for inserida, a descrição do seu blog/site será usada."
 
-#: vsmd.php:69
+#: vsmd.php:60
 #@ metadescription
 msgid "Search engines like Google use the meta description in search results."
 msgstr "Os motores de buscas do Google usam a meta descrição no seus resultados de busca."
@@ -83,6 +83,6 @@ msgstr "Os motores de buscas do Google usam a meta descrição no seus resultado
 #. translators: plugin header field 'Version'
 #: vsmd.php:0
 #@ metadescription
-msgid "1.1"
+msgid "1.4"
 msgstr ""
 
