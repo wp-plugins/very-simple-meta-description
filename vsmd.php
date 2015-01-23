@@ -68,12 +68,11 @@ function vsmd_options_page() {
 function vsmd_meta_description() {
 	$meta = esc_attr( get_option( 'vsmd-setting' ) );
 	$descr = get_bloginfo( 'description' );
-	if (empty($meta)) 
-	{
-	echo '<meta name="description" content="'.$descr.'" />'."\n";
+	if (empty($meta)) {
+		echo '<meta name="description" content="'.$descr.'" />'."\n";
 	}
 	else {
-	echo '<meta name="description" content="'.$meta.'" />'."\n";
+		echo '<meta name="description" content="'.$meta.'" />'."\n";
 	}
 }
 add_action( 'wp_head', 'vsmd_meta_description' );
