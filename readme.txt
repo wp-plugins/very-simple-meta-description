@@ -20,7 +20,7 @@ Version 1.3
 - added FAQ
 
 Version 1.2
-- added Serbian translation (thanks Ogi Djuraskovic from http://firstsiteguide.com website)
+- added Serbian translation (thanks Ogi Djuraskovic from First Site Guide)
 - added Brazilian Portuguese translation (thanks Gustavo Lucas)
 - added Spanish translation (thanks Alvaro Reig Gonzalez)
 
