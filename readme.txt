@@ -1,6 +1,6 @@
 === Very Simple Meta Description ===
 Contributors: Guido07111975
-Version: 1.4
+Version: 1.5
 License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Requires at least: 3.7
@@ -10,6 +10,9 @@ Tags: simple, meta, description
 
 
 == Changelog == 
+Version 1.5
+- only few minor adjustments
+
 Version 1.4
 - only few minor adjustments
 
@@ -39,7 +42,7 @@ Search engines like Google use the meta description in search results.
 If no meta description is entered, the blog description will be used. 
 
 = Translation =
-This plugin is translation-ready (Dutch, Spanish, Catalan, Brazilian Portuguese and Serbian translation included). More translations are very welcome! Please contact me via my website.
+Dutch, Spanish, Catalan, Brazilian Portuguese and Serbian translation included. Only things that can be translated are dashboard name, plugin description and settingspage. More translations are very welcome! Please contact me via my website.
 
 = CREDITS =
 Without the WordPress codex and help from the WordPress community I was not able to develop this plugin, so: thank you!
@@ -62,7 +65,7 @@ Search engines like Google use the meta description in search results.
 
 == Frequently Asked Questions ==
 = Is my language supported too? =
-From version 1.3 all UTF-8 characters are allowed, so many languages are supported.
+All UTF-8 characters are allowed, so many languages are supported.
 
 = Other question or comment? =
 Please open a topic in plugin forum or send me a message via my website.
