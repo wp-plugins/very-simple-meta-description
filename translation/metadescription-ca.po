@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Very Simple Meta Description v1.4\n"
+"Project-Id-Version: Very Simple Meta Description v1.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-11-08 17:55:01+0000\n"
+"PO-Revision-Date: 2015-04-06 19:36:17+0000\n"
 "Last-Translator: Miquel Serrat\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -83,6 +83,6 @@ msgstr "Nota: Si no s'introdueix cap meta descripció, es farà servir la descri
 #. translators: plugin header field 'Version'
 #: vsmd.php:0
 #@ metadescription
-msgid "1.4"
+msgid "1.5"
 msgstr ""
 

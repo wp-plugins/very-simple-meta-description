@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Very Simple Meta Description v1.4\n"
+"Project-Id-Version: Very Simple Meta Description v1.5\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-11-08 17:55:11+0000\n"
+"PO-Revision-Date: 2015-04-06 19:35:39+0000\n"
 "Last-Translator: Gustavo Lucas\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -83,6 +83,6 @@ msgstr "Os motores de buscas do Google usam a meta descrição no seus resultado
 #. translators: plugin header field 'Version'
 #: vsmd.php:0
 #@ metadescription
-msgid "1.4"
+msgid "1.5"
 msgstr ""
 
