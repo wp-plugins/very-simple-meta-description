@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Very Simple Meta Description
  * Description: This is a very simple plugin to add meta description in the header of your WordPress blog. For more info please check readme file.
- * Version: 1.5
+ * Version: 1.6
  * Author: Guido van der Leest
  * Author URI: http://www.guidovanderleest.nl
  * License: GNU General Public License v3 or later
