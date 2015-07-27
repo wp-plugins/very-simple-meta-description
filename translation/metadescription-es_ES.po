@@ -1,88 +1,79 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Very Simple Meta Description v1.5\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: 2015-04-06 19:35:31+0000\n"
-"Last-Translator: Alvaro Reig Gonzalez\n"
+"Project-Id-Version: Very Simple Meta Description\n"
+"POT-Creation-Date: 2015-07-27 09:44+0200\n"
+"PO-Revision-Date: 2015-07-27 10:42+0200\n"
+"Last-Translator: \n"
 "Language-Team: \n"
+"Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: CSL v1.x\n"
-"X-Poedit-Language: Spanish\n"
-"X-Poedit-Country: SPAIN\n"
-"X-Poedit-SourceCharset: utf-8\n"
-"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
-"X-Poedit-Basepath: ../\n"
-"X-Poedit-Bookmarks: \n"
+"X-Generator: Poedit 1.8.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: vsmd.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
 "X-Poedit-SearchPath-0: .\n"
-"X-Textdomain-Support: yes"
-
-#. translators: plugin header field 'Name'
-#: vsmd.php:0
-#: vsmd.php:54
-#@ metadescription
-msgid "Very Simple Meta Description"
-msgstr ""
-
-#. translators: plugin header field 'Description'
-#: vsmd.php:0
-#@ metadescription
-msgid "This is a very simple plugin to add meta description in the header of your WordPress blog. For more info please check readme file."
-msgstr "Este es un sencillo plugin para añadir una meta descripción en la cabecera de su blog en Wordpress. Para más información consulte el fichero readme."
-
-#. translators: plugin header field 'Author'
-#: vsmd.php:0
-#@ metadescription
-msgid "Guido van der Leest"
-msgstr ""
-
-#. translators: plugin header field 'AuthorURI'
-#: vsmd.php:0
-#@ metadescription
-msgid "http://www.guidovanderleest.nl"
-msgstr ""
+"X-Poedit-SearchPathExcluded-0: *.js\n"
 
 #: vsmd.php:24
-#@ metadescription
 msgid "Meta Description"
 msgstr "Meta descripción"
 
 #: vsmd.php:32
-#@ metadescription
 msgid "Description"
 msgstr "Descripción"
 
 #: vsmd.php:33
-#@ metadescription
 msgid "Your meta description"
 msgstr "Su meta descripción"
 
-#: vsmd.php:58
-#@ metadescription
-msgid "Save Meta"
-msgstr "Guardar meta"
-
 #: vsmd.php:39
-#@ metadescription
-msgid "This is a very simple plugin to add meta description of max. 150 characters in the header of your WordPress blog."
-msgstr "Este es un sencillo plugin para añadir una meta descripción de hasta 150 caracteres en la cabecera de su blog en Wordpress."
+msgid ""
+"This is a very simple plugin to add meta description of max. 150 characters "
+"in the header of your WordPress blog."
+msgstr ""
+"Este es un sencillo plugin para añadir una meta descripción de hasta 150 "
+"caracteres en la cabecera de su blog en WordPress."
 
-#: vsmd.php:61
-#@ metadescription
-msgid "Note: if no meta description is entered, the blog description will be used."
-msgstr "Nota: si no se introduce una meta descripción, se utilizará la descripción del blog."
-
-#: vsmd.php:60
-#@ metadescription
-msgid "Search engines like Google use the meta description in search results."
-msgstr "Los motores de búsqueda como Google utilizan la meta descripción en los resultados de la búsqueda."
-
-#. translators: plugin header field 'Version'
-#: vsmd.php:0
-#@ metadescription
-msgid "1.5"
+#. Plugin Name of the plugin/theme
+#: vsmd.php:54
+msgid "Very Simple Meta Description"
 msgstr ""
 
+#: vsmd.php:58
+msgid "Save Meta"
+msgstr "Guardar Meta"
+
+#: vsmd.php:60
+msgid "Search engines like Google use the meta description in search results."
+msgstr ""
+"Los motores de búsqueda como Google utilizan la meta descripción en los "
+"resultados de la búsqueda."
+
+#: vsmd.php:61
+msgid ""
+"Note: if no meta description is entered, the blog description will be used."
+msgstr ""
+"Nota: si no se introduce una meta descripción, se utilizará la descripción "
+"del blog."
+
+#. Description of the plugin/theme
+msgid ""
+"This is a very simple plugin to add meta description in the header of your "
+"WordPress blog. For more info please check readme file."
+msgstr ""
+"Este es un sencillo plugin para añadir una meta descripción de hasta 150 "
+"caracteres en la cabecera de su blog en WordPress."
+
+#. Author of the plugin/theme
+msgid "Guido van der Leest"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.guidovanderleest.nl"
+msgstr ""
