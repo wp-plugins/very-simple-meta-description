@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Very Simple Meta Description
  * Description: This is a very simple plugin to add meta description in the header of your WordPress blog. For more info please check readme file.
- * Version: 1.6
+ * Version: 1.7
  * Author: Guido van der Leest
  * Author URI: http://www.guidovanderleest.nl
  * License: GNU General Public License v3 or later
@@ -51,14 +51,14 @@ function vsmd_options_page() {
 ?>
 <div class="wrap"> 
 	<div id="icon-plugins" class="icon32"></div> 
-	<h2><?php _e( 'Very Simple Meta Description', 'metadescription' ); ?></h2> 
+	<h1><?php _e( 'Very Simple Meta Description', 'metadescription' ); ?></h1> 
 	<form action="options.php" method="POST">
 	<?php settings_fields( 'vsmd-options' ); ?>
 	<?php do_settings_sections( 'vsmd' ); ?>
 	<?php submit_button(__('Save Meta', 'metadescription')); ?>
 	</form>
-	<p><?php _e( 'Search engines like Google use the meta description in search results.', 'metadescription' ); ?><p>
-	<p><?php _e( 'Note: if no meta description is entered, the blog description will be used.', 'metadescription' ); ?><p>
+	<p><?php _e( 'Search engines like Google use the meta description in search results.', 'metadescription' ); ?></p>
+	<p><?php _e( 'Note: if no meta description is entered, the blog description will be used.', 'metadescription' ); ?></p>
 </div>
 <?php
 }
